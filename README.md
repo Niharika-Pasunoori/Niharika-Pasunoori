@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Niharika Pasunoori 👋
 
 <!--
 **Niharika-Pasunoori/Niharika-Pasunoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a tech enthusiast with a passion for building web applications.
+### Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django,BootStrap
+- **Web Tchnologies:** HTML, CSS
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git
+
