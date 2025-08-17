@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a tech enthusiast with a passion for building web applications.
+I'm a tech enthusiast with a passion for building web applications and gradually transitioning into the **AI world**.
+Currently, I'm focusing on strengthening my backend development skills while exploring **Artificial Intelligence**
+concepts step by step.
+
 ### Skills
 - **Languages:** Python, JavaScript
-- **Frameworks:** Django,BootStrap
-- **Web Tchnologies:** HTML, CSS
+- **Frameworks:** Django, Django Rest Framework
+- **Web Tchnologies:** HTML, CSS, Bootstrap
 - **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git
+- **Caching/ Message Broker:** Redis
+- **Task Queues:** Celery
+- **Version Control:** Git, GitHub
+- **Containerization:** Docker (basic)
+- **Cloud (AWS)**: S3, IAM, RDS
 
